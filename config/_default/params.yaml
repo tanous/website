@@ -6,16 +6,16 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: taminimal
   theme_night:
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: EducationOrganization
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
@@ -38,7 +38,7 @@ header:
     show_logo: true
     show_language: false
     show_day_night: true
-    show_search: true
+    show_search: false
     highlight_active_link: false
 
 # Site footer

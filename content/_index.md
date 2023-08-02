@@ -10,30 +10,11 @@ sections:
       title: |
         Tarek Anous
       image:
-        filename: welcome.jpg
+        filename: deSitter.jpeg
       text: |
         <br>
         
-        Welcome to Tarek Anous's Personal Website
-  
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+        This webpage is under construction, please check back soon
   
   - block: markdown
     content:
@@ -44,10 +25,10 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: deSitter.jpeg
           filters:
             brightness: 1
-          parallax: false
+          parallax: true
           position: center
           size: cover
           text_color_light: true
