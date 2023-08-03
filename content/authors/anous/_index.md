@@ -61,6 +61,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/tanous
+  - icon: cv
+    icon_pack: ai
+    link: https://www.dropbox.com/scl/fi/e2dexcmhtp1i0qeziezf6/CV_Anous.pdf?rlkey=dqtl7kg8w79xz5azeiz79k90a&dl=0
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
