@@ -24,8 +24,7 @@ sections:
         <span style="font-size: 1rem; color:#1C4E9D">Sailing past the edge of the world</span>
       subtitle: |- 
         <span style="font-size: 0.6rem;">IAS, April 2022</span>
-      text: |-  
-        {{< youtube sJDMpuP_Qjk >}}
+      text: "{{< youtube sJDMpuP_Qjk >}}"
     design:
       columns: '2'
   - block: markdown

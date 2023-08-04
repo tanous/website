@@ -1,0 +1,226 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"equation"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Add Repository"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/config/_default/config.yaml",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/config/_default/params.yaml",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/recordedtalks/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/_index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/config/_default/menus.yaml",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/event/_index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/event/example/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/_index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anous-2019-osb/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anous-2021-eqj/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/publications.bib",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anous-2022-wqh/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anous-2022-wqh/cite.bib",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anous-2019-yku/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anous-2020-lka/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anous-2020-nxu/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anous-2019-rqb/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anous-2018-hjh/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/adams-2014-cda/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/recordedtalks/anous/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/contact/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/Recorded_Talks/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/Recorded_Talks/Sailing/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/Recorded_Talks/Example Talk/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anous-2015-xah/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/people/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anninos-2023-lin/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/anous-2017-mwr/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/bibtex_2academic.R",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/academic-publications.bib",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/journal-article/cite.bib",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/journal-article/index.md",
+		"/Users/tarekanous/Library/CloudStorage/Dropbox/CV/RSrefs_normal.bib",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/preprint/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/publication/conference-paper/cite.bib",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/admin/index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/tour/index.md",
+		"/Users/tarekanous/Library/CloudStorage/Dropbox/CV/CV_Anous.tex",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/website/content/authors/anous/_index.md",
+		"/Users/tarekanous/Documents/QMUL_Local/Website Master Folder/_default/config.yaml"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "languages.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
