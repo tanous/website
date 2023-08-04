@@ -33,7 +33,7 @@ publishDate: '2023-08-03T18:36:14.939770Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*SciPost Phys.*'
+publication: '*SciPost Physics*'
 doi: 10.21468/SciPostPhys.5.3.022
 links:
 - name: arXiv

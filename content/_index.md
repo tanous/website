@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Tarek Anous
+title: Tarek Anous Academic Website
 date: 2023-08-02
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Tarek Anous
+        Tarek Anous 
       image:
         filename: deSitter.jpeg
       text: |
@@ -36,12 +36,4 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
 ---

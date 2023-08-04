@@ -24,7 +24,7 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['360px', '0', '0px', '0']
+        padding: ['140px', '0', '0px', '0']
       css_class: fullscreen
 
   - block: contact
@@ -33,15 +33,17 @@ sections:
       text: 
       email: t.anous@qmul.ac.uk
       address:  
-        street: "School of Mathematical Sciences: MB-B24, Queen Mary University of London, Mile End Road"
+        street: School of Mathematical Sciences<br> MB-B24<br> Queen Mary University of London<br> Mile End Road
         city: London
         postcode: 'E3 2JZ'
         country: United Kingdom
         country_code: UK
       coordinates:
-        latitude: '51.522419'
-        longitude: '-0.043088'
-      directions: We are located between the <span style="color:#38761D">Stepney</span> <span style="color:#C27BA0">Green</span> and <span style="color:#CC0000">Mi</span><span style="color:#38761D">le E</span><span style="color:#C27BA0">nd</span> tube stops
+        latitude: #'51.522419'
+        longitude: #'-0.043088'
+      directions: We are located between the <span style="color:#38761D">Stepney</span> <span style="color:#C27BA0">Green</span> and <span style="color:#CC0000">Mi</span><span style="color:#38761D">le E</span><span style="color:#C27BA0">nd</span> tube stops<br> 
+
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.493285291059!2d-0.0457134232438842!3d51.522511671816844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761d2f3123ff19%3A0x1a14b140e802c875!2sSchool%20of%20Mathematical%20Sciences!5e0!3m2!1sen!2suk!4v1691160967834!5m2!1sen!2suk" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas

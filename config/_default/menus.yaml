@@ -4,9 +4,12 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
+  - name:  Home
+    url: #_index.md
+    weight: 30
   - name: Research
     url: research
-    weight: 30
+    weight: 40
   - name: People
     url: people
     weight: 30
@@ -14,8 +17,8 @@ main:
     url: publication
     weight: 50
   - name: Recorded Talks
-    url: recorded_talks
-    weight: 50
+    url: recordedtalks
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70

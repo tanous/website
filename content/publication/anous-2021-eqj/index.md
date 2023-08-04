@@ -32,7 +32,7 @@ publishDate: '2023-08-03T18:36:14.120617Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*J. Stat. Mech.*'
+publication: '*J. Stat. Mech*'
 doi: 10.1088/1742-5468/ac2cb9
 links:
 - name: arXiv

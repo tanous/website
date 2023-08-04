@@ -34,7 +34,7 @@ publishDate: '2023-08-03T18:36:16.076134Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Phys. Rev.*'
+publication: '*Phys. Rev.E*'
 doi: 10.1103/PhysRevE.91.032148
 links:
 - name: arXiv
