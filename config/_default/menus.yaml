@@ -14,7 +14,7 @@ main:
     url: people
     weight: 50
   - name: Events
-    url: events_big
+    url: events
     weight: 60
   - name: Publications
     url: publication
