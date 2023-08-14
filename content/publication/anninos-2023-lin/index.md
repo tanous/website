@@ -33,7 +33,7 @@ projects: []
 publishDate: '2023-08-03T18:36:13.609066Z'
 publication_types:
 - '3'
-abstract: ''
+abstract: 'We study quantum field theories placed on a two-dimensional de Sitter spacetime (dS$_2$) with an eye on the group-theoretic organisation of single and multi-particle states.  We explore the distinguished role of the discrete series unitary irreducible representation (UIR) in the Hilbert space. By employing previous attempts to realise these states in free tachyonic scalar field theories, we propose how the discrete series may contribute to the Källén-Lehmann decomposition of an interacting scalar two-point function. We also study BF gauge theories with $SL(N,\mathbb{R})$ gauge group in dS$_2$ and establish a relation between the discrete series UIRs and the operator content of these theories. Although present at the level of the operators, states carrying discrete series quantum numbers are projected out of the gauge-invariant Hilbert space. This projection is reminiscent of what happens for quantum field theories coupled to semiclassical de Sitter gravity, where we must project onto the subspace of de Sitter invariant states. We discuss how to impose the diffeomorphism constraints on local field-theory operators coupled to two-dimensional gravity in de Sitter, with particular emphasis on the role of contact terms. Finally, we discuss an SYK-type model with a random two-body interaction that encodes an infinite tower of discrete series operators. We speculate on its potential microscopic connection to the $SL(N,\mathbb{R})$ BF theory in the large-$N$ limit.'
 publication: ''
 links:
 - name: arXiv
