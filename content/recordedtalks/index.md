@@ -5,7 +5,28 @@ title: Recorded talks
 type: landing
 
 # Your landing page sections - add as many different content blocks as you like
+
 sections:
+  - block: markdown
+    content:
+      title: |
+        <span style="font-size: 4.4rem"> Recorded Talks </span>
+      subtitle: 'Scroll down for a selection of my talks'
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: deSitter.jpeg
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: 40%
+          text_color_light: true
+      spacing:
+        padding: ['140px', '0', '20px', '0']
+      css_class: fullscreen
   - block: markdown
     id: EFT-matrix
     content:

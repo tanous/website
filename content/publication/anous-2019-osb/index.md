@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A general definition of $JT_a$ -- deformed QFTs
+title: A general definition of $JT_a$ - deformed QFTs
 subtitle: ''
 summary: ''
 authors:

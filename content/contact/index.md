@@ -21,7 +21,7 @@ sections:
             brightness: 1
           parallax: false
           position: center
-          size: cover
+          size: 100%
           text_color_light: true
       spacing:
         padding: ['140px', '0', '0px', '0']

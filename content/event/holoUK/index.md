@@ -12,7 +12,7 @@ address:
   postcode: 'W1S 4BS'
   country: United Kingdom
 
-summary: The first holoUK, supported thanks to a contribution from FPUK and Organized in collaboration with Damian Galante, Felix Haehl, and Mark Mezei.
+summary: The first holoUK, supported thanks to a contribution from FPUK and organized in collaboration with Damian Galante, Felix Haehl, and Mark Mezei.
 
 abstract: 'Speakers: Kuo-Wei Huang (U. of Southampton) and Michal Heller (Ghent University)'
 

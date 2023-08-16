@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: I look for toy models for gravitating systems.
+bio: Model building for gravitating systems.
 
 interests:
   - Black holes and their interiors
@@ -83,4 +83,4 @@ user_groups:
   - Researchers 
 ---
 
-I'm an Egyptian/American theoretical physicist. I spent my childhood in Houston Texas, and my teenage years in Cairo. I was drawn to research in string theory and holography, and after academic stints in Ithaca, Boston, Leuven, Boston (again), Vancouver, and Amsterdam, I've landed at Queen Mary University of London. 
+I'm an Egyptian/American theoretical physicist. I spent my childhood in Houston Texas, and my teenage years in Cairo. I was drawn to research in string theory and holography, and after academic stints in Ithaca, Boston, Leuven, Boston (again), Vancouver, and Amsterdam, I've landed at the School of Mathematical Sciences at Queen Mary University of London. 
