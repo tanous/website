@@ -7,8 +7,8 @@ main:
   - name:  Home
     url: #_index.md
     weight: 30
-  - name: Research and Teaching
-    url: research-teaching
+  - name: Teaching and Outreach
+    url: teaching-outreach
     weight: 40
   - name: People
     url: people
@@ -22,6 +22,9 @@ main:
   - name: Recorded Talks
     url: recordedtalks
     weight: 80
+  - name: Openings
+    url: openings
+    weight: 90
   - name: Contact
     url: contact
-    weight: 90
+    weight: 100

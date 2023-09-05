@@ -25,8 +25,8 @@ sections:
           size: 40%
           text_color_light: true
       spacing:
-        padding: ['140px', '0', '20px', '0']
-      css_class: fullscreen
+        padding: ['140px', '0', '140px', '0']
+      #css_class: fullscreen
   - block: markdown
     id: EFT-matrix
     content:
@@ -52,7 +52,8 @@ sections:
     id: fragment
     content:
       title: |- 
-        [<span style="font-size: 0.8rem; color:#1C4E9D">Towards a model of AdS Fragmentation</span>](https://pirsa.org/22010085)
+        [Towards a model of AdS Fragmentation](https://pirsa.org/22010085)
+        {style="font-size: 0.8rem; color:#1C4E9D"}
       subtitle: |- 
         <span style="font-size: 0.5rem;">Perimeter Institute, January 2022</span>
       text: |-  
@@ -63,7 +64,8 @@ sections:
     id: principal
     content:
       title: |- 
-       [<span style="font-size: 0.8rem; color:#1C4E9D">An invitation to the principal series</span>](https://educast.fccn.pt/vod/clips/2cby2w9szy/streaming.html?locale=pt)
+       [An invitation to the principal series](https://educast.fccn.pt/vod/clips/2cby2w9szy/streaming.html?locale=pt)
+       {style="font-size: 0.8rem; color:#1C4E9D"}
       subtitle: |- 
         <span style="font-size: 0.5rem;">IST Lisbon, May 2021</span>
       text: |-  

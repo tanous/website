@@ -8,13 +8,23 @@ sections:
   - block: hero
     content:
       title: |
-        Tarek Anous 
+        The Anous group 
       image:
         filename: deSitter.jpeg
-      text: |
+      text: |- 
         <br>
-        
-        This webpage is under construction, please check back soon
+
+        Welcome to Tarek Anous's group webpage, where you can find information about group members, research and teaching activities, and events going on. 
+        {style="font-size: 1rem;"}
+
+  - block: markdown
+    content:
+      title: Research Interests 
+      image:
+        filename: 
+      text: |-
+       ![Collapse](/uploads/collapse.png)
+
   - block: people
     content:
       title: Meet the team
