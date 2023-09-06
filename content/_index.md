@@ -36,7 +36,7 @@ sections:
        - Disordered systems as a model of [cold](/publication/anous-2021-eqj), [fragmented black holes](/publication/anninos-2016-szt)
        - Quantum field theory on a rigid de Sitter background, including
           - The constraints imposed by [symmetries](/publication/anninos-2023-lin) and [unitarity](/publication/anous-2020-nxu)
-          - The cosmological wavefunction and how it controls the [infrared of loops integrals](/publication/anninos-2014-lwa)
+          - The cosmological wavefunction and how it controls the [infrared of loop integrals](/publication/anninos-2014-lwa)
 
 
 
