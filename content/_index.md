@@ -19,11 +19,26 @@ sections:
 
   - block: markdown
     content:
-      title: Research Interests 
+      title: Research  
       image:
         filename: 
       text: |-
-       ![Collapse](/uploads/collapse.png)
+       ![Collapse](/uploads/collapse.png#center)
+       One of the landmark pursuits of theoretical physics is to quantize the gravitational interaction. String theory provides a perturbative approach, but requires extra particles, symmetries, and spacetime dimensions. Worst of all, string theory fails as a framework in expanding spacetimes---and it just so happens that our universe is [expanding at an exponential rate](https://www.nobelprize.org/prizes/physics/2011/summary/).
+
+       Luckily, string theory has led to the development of _holographic dualities_, such as the AdS/CFT correspondence (learn about it [here](https://www.damtp.cam.ac.uk/user/aw846/AdSCFT.html)), which posits that spacetime physics emerges as a strong-coupling, many-body limit of quantum systems that do not interact gravitationally. 
+
+       My research aims to understand how spacetime horizon physics is encoded using such dualities, and explore models that incorporate the expansion of spacetime. Some approaches that I have taken in the past include: 
+
+       - Low-dimensional models of classical and quantum gravity, and their holographic duals
+          - For example: thermalization as a dual of gravitational [black hole collapse](/publication/anous-2016-kss)
+       - Supersymmetric matrix quantum mechanics as a [toy model](/publication/anous-2019-rqb) for [string theoretic black holes](/publication/anous-2017-mwr)
+       - Disordered systems as a model of [cold](/publication/anous-2021-eqj), [fragmented black holes](/publication/anninos-2016-szt)
+       - Quantum field theory on a rigid de Sitter background, including
+          - The constraints imposed by [symmetries](/publication/anninos-2023-lin) and [unitarity](/publication/anous-2020-nxu)
+          - The cosmological wavefunction and how it controls the [infrared of loops integrals](/publication/anninos-2014-lwa)
+
+
 
   - block: people
     content:

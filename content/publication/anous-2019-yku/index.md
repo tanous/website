@@ -31,7 +31,8 @@ projects: []
 publishDate: '2023-08-03T18:36:14.827079Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 
+    We use the monodromy method to compute expectation values of an arbitrary number of light operators in finitely excited ("heavy") eigenstates of holographic 2D CFT. For eigenstates with scaling dimensions above the BTZ threshold, these behave thermally up to small corrections, with an effective temperature determined by the heavy state. Below the threshold we find oscillatory and not decaying behavior. As an application of these results we compute the expectation of the out-of-time order arrangement of four light operators in a heavy eigenstate, i.e. a six-point function. Above the threshold we find maximally scrambling behavior with Lyapunov exponent $2\pi T_{\rm eff}$. Below threshold we find that the eigenstate OTOC shows persistent harmonic oscillations.
 publication: '*SciPost Physics*'
 doi: 10.21468/SciPostPhys.7.1.003
 links:

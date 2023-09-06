@@ -33,7 +33,8 @@ projects: []
 publishDate: '2023-08-03T18:36:13.873813Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 
+    Large black holes in anti-de Sitter space have positive specific heat and do not evaporate. In order to mimic the behavior of evaporating black holes, one may couple the system to an external bath. In this paper we explore a rich family of such models, namely ones obtained by coupling two holographic CFTs along a shared interface (ICFTs). We focus on the limit where the bulk solution is characterized by a thin brane separating the two individual duals. These systems may be interpreted in a double holographic way, where one integrates out the bath and ends up with a lower-dimensional gravitational braneworld dual to the interface degrees of freedom. Our setup has the advantage that all observables can be defined and calculated by only relying on standard rules of AdS/CFT. We exploit this to establish a number of general results, relying on a detailed analysis of the geodesics in the bulk. Firstly, we prove that the entropy of Hawking radiation in the braneworld is obtained by extremizing the generalized entropy, and moreover that at late times a so-called `island saddle' gives the dominant contribution. We also derive Takayanagi's prescription for calculating entanglement entropies in BCFTs as a limit of our ICFT results.
 publication: '*SciPost Physics*'
 doi: 10.21468/SciPostPhys.13.3.075
 links:

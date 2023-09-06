@@ -34,7 +34,8 @@ projects: []
 publishDate: '2023-08-03T18:36:16.553136Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 
+    We initiate a systematic study of the dynamics of multi-particle systems with supersymmetric Van der Waals and electron-monopole type interactions. The static interaction allows a complex continuum of ground state configurations, while the Lorentz interaction tends to counteract this configurational fluidity by magnetic trapping, thus producing an exotic low temperature phase of matter aptly named supergoop. Such systems arise naturally in $\mathcal{N}=2$ gauge theories as monopole-dyon mixtures, and in string theory as collections of particles or black holes obtained by wrapping D-branes on internal space cycles. After discussing the general system and its relation to quiver quantum mechanics, we focus on the case of three particles. We give an exhaustive enumeration of the classical and quantum ground states of a probe in an arbitrary background with two fixed centers. We uncover a hidden conserved charge and show that the dynamics of the probe is classically integrable. In contrast, the dynamics of one heavy and two light particles moving on a line shows a nontrivial transition to chaos, which we exhibit by studying the Poincaré sections. Finally we explore the complex dynamics of a probe particle in a background with a large number of centers, observing hints of ergodicity breaking. We conclude by discussing possible implications in a holographic context.
 publication: '*JHEP*'
 doi: 10.1007/JHEP03(2013)081
 links:

@@ -7,11 +7,11 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: |-          
-        <span style="font-size: 4.4rem;color:#ffffff"> Contact</span>
+      title: 
       subtitle: ''
       text: 
       font_size: XS
+      position: center
     design:
       columns: '1'
       background:

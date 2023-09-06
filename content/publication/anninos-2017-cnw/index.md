@@ -32,7 +32,8 @@ projects: []
 publishDate: '2023-08-03T18:36:15.284611Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 
+    Motivated by the near-horizon geometry of four-dimensional extremal black holes, we study a disordered quantum mechanical system invariant under a global $SU(2)$ symmetry. As in the Sachdev-Ye-Kitaev model, this system exhibits an approximate $SL(2,\mathbb{R})$ symmetry at low energies, but also allows for a continuous family of $SU(2)$ breaking marginal deformations. Beyond a certain critical value for the marginal coupling, the model exhibits a quantum phase transition from the gapless phase to a gapped one and we calculate the critical exponents of this transition. We also show that charged, rotating extremal black holes exhibit a transition when the angular velocity of the horizon is tuned to a certain critical value. Where possible we draw parallels between the disordered quantum mechanics and charged, rotating black holes.
 publication: '*JHEP*'
 doi: 10.1007/JHEP12(2017)095
 links:

@@ -31,7 +31,8 @@ projects: []
 publishDate: '2023-08-03T18:36:14.696218Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 
+    We propose a general path-integral definition of two-dimensional quantum field theories deformed by an integrable, irrelevant vector operator constructed from the components of the stress tensor and those of a $U(1)$ current. The deformed theory is obtained by coupling the original QFT to a flat dynamical gauge field and "half" a flat dynamical vielbein. The resulting partition function is shown to satisfy a geometric flow equation, which perfectly reproduces the flow equations for the deformed energy levels that were previously derived in the literature. The S-matrix of the deformed QFT differs from the original S-matrix only by an overall phase factor that depends on the charges and momenta of the external particles, thus supporting the conjecture that such QFTs are UV complete, although intrinsically non-local. For the special case of an integrable QFT, we check that this phase factor precisely reproduces the change in the finite-size spectrum via the Thermodynamic Bethe Ansatz equations.
 publication: '*SciPost Physics*'
 doi: 10.21468/SciPostPhys.10.4.096
 links:

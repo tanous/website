@@ -34,7 +34,7 @@ projects: []
 publishDate: '2023-08-03T18:36:14.589011Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'The BFSS matrix model provides an example of gauge-theory / gravity duality where the gauge theory is a model of ordinary quantum mechanics with no spatial subsystems. If there exists a general connection between areas and entropies in this model similar to the Ryu-Takayanagi formula, the entropies must be more general than the usual subsystem entanglement entropies. In this note, we first investigate the extremal surfaces in the geometries dual to the BFSS model at zero and finite temperature. We describe a method to associate regulated areas to these surfaces and calculate the areas explicitly for a family of surfaces preserving SO(8) symmetry, both at zero and finite temperature. We then discuss possible entropic quantities in the matrix model that could be dual to these regulated areas.'
 publication: '*SciPost Physics*'
 doi: 10.21468/SciPostPhys.8.4.057
 links:

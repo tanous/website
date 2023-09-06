@@ -29,6 +29,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
+# Publication type 3 is preprint
 projects: []
 publishDate: '2023-08-03T18:36:13.609066Z'
 publication_types:

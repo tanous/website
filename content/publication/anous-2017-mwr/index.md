@@ -31,7 +31,8 @@ projects: []
 publishDate: '2023-08-03T18:36:15.510928Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 
+    We study a mass-deformed $\mathcal{N}=4$ version of the BFSS matrix model with three matrices and gauge group $SU(2)$. This model has zero Witten index. Despite this, we give numerical evidence for the existence of four supersymmetric ground states, two bosonic and two fermionic, in the limit where the mass deformation is tuned to zero.
 publication: '*Phys. Rev.D*'
 doi: 10.1103/PhysRevD.100.066023
 links:

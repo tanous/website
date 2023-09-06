@@ -9,9 +9,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: |
-         Teaching and Outreach
-         {style="font-size: 4.4rem; color:#ffffff;"}
+      title: #Teaching and Outreach {style="font-size: 4.4rem; color:#ffffff;"}
       subtitle:
       text:
     design:
@@ -25,6 +23,7 @@ sections:
           position: center
           size: 100%
           text_color_light: true
+        text: hellow
       spacing:
         padding: ['240px', '0', '200px', '0']
       #css_class: fullscreen

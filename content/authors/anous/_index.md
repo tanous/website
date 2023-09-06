@@ -79,6 +79,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+#  User group options inclued  Researchers', 'Graduate Students' and 'Alumni'
 user_groups:
   - Researchers 
 ---

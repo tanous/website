@@ -32,7 +32,8 @@ projects: []
 publishDate: '2023-08-03T18:36:15.732962Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 
+    We analyze the low temperature structure of a supersymmetric quiver quantum mechanics with randomized superpotential coefficients, treating them as quenched disorder. These theories describe features of the low energy dynamics of wrapped branes, which in large number backreact into extremal black holes. We show that the low temperature theory, in the limit of a large number of bifundamentals, exhibits a time reparametrization symmetry as well as a specific heat linear in the temperature. Both these features resemble the behavior of black hole horizons in the zero temperature limit. We demonstrate similarities between the low temperature physics of the random quiver model and a theory of large-$N$ free fermions with random masses.
 publication: '*JHEP*'
 doi: 10.1007/JHEP12(2016)071
 links:

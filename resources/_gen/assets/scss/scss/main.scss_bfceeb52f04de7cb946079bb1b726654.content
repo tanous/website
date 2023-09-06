@@ -9672,3 +9672,7 @@ div.chart {
 
 .cta-group {
   justify-content: center; }
+
+img[src*='#center'] {
+  display: block;
+  margin: auto; }

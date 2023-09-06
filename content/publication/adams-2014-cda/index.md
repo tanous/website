@@ -33,7 +33,8 @@ projects: []
 publishDate: '2023-08-03T18:36:16.076134Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 
+    Glass-forming liquids exhibit a dramatic dynamical slowdown as the temperature is lowered. This can be attributed to relaxation proceeding via large structural rearrangements whose characteristic size increases as the system cools. These cooperative rearrangements are well modeled by instantons in a replica effective field theory, with the size of the dominant instanton encoding the liquid's cavity point-to-set correlation length. Varying the parameters of the effective theory corresponds to varying the statistics of the underlying free-energy landscape. We demonstrate that, for a wide range of parameters, replica-symmetry-breaking instantons dominate. The detailed structure of the dominant instanton provides a rich window into point-to-set correlations and glassy dynamics.
 publication: '*Phys. Rev.E*'
 doi: 10.1103/PhysRevE.91.032148
 links:

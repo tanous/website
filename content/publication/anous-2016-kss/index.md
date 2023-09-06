@@ -33,7 +33,8 @@ projects: []
 publishDate: '2023-08-03T18:36:15.620767Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 
+    We present a first-principles CFT calculation corresponding to the spherical collapse of a shell of matter in three dimensional quantum gravity. In field theory terms, we describe the equilibration process, from early times to thermalization, of a CFT following a sudden injection of energy at time $t=0$. By formulating a continuum version of Zamolodchikov's monodromy method to calculate conformal blocks at large central charge $c$, we give a framework to compute a general class of probe observables in the collapse state, incorporating the full backreaction of matter fields on the dual geometry. This is illustrated by calculating a scalar field two-point function at time-like separation and the time-dependent entanglement entropy of an interval, both showing thermalization at late times. The results are in perfect agreement with previous gravity calculations in the AdS$_3$-Vaidya geometry. Information loss appears in the CFT as an explicit violation of unitarity in the $1/c$ expansion, restored by nonperturbative corrections.
 publication: '*JHEP*'
 doi: 10.1007/JHEP07(2016)123
 links:

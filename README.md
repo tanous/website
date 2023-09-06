@@ -1,48 +1,69 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/529f4c62-9c9e-4325-b285-63d9c6a765e1/deploy-status)](https://app.netlify.com/sites/startling-dolphin-15f816/deploys)
 
-[![Screenshot](./preview.png)](https://wowchemy.com/hugo-themes/)
+# Tarek Anous's group website
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+This Readme is copied and edited from Chris Mcfarland's group website [github deployment page](https://github.com/cancerevo/website). Follow the link for more information.
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+This static website is built using the [Academic Template](https://academic-demo.netlify.app/) for hugo. It is deployed by Netlify at www.tarek-ano.us. 
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://wowchemy.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/wowchemy?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+New group members should follow this short tutorial in order add themselves to the website. This task should familiarize you with Package Management Systems for installing software, and git - the most common version control system in use today. If you haven't used these systems, I'd first read about them a little bit. 
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+The two most common package management systems are [apt (for linux/ubuntu)](https://help.ubuntu.com/community/AptGet/Howto) and [brew (for MacOSX)](https://brew.sh/). 
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://wowchemy.com/creators/).
+[Here's a short tutorial on git](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners). 
 
-The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+This tutorial should also teach you a little bit about 'static website builders', although you wont be doing anything sophisticated. 
 
-- 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
+## Local deploy 
 
-## We ask you, humbly, to support this open source movement
+1. Install Git, Hugo and Go (e.g. `apt install git hugo go` or `brew install git hugo go`). 
+2. Pull website & launch:
+```sh
+git clone https://github.com/tanous/website.git
+cd website
+hugo server -D
+```
+3. Vist at http://localhost:1313/
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+## Adding yourself to the "People" page
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+Once you have the website deployed on your local machine, you can add yourself to the website.  
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+1. Migrate to the list of authors, and copy my folder as a template:
+```sh
+cd content/authors
+cp -r anous <YourLastName>
+```
 
-## Demo credits
+2. Edit your bio by deleting my info and adding yours (the comments in my bio should be sufficient to clairfy what goes where, but feel free to ask):
+```sh
+cd <YourLastName>
+nano _index.md
+```
 
-Please replace the demo images with your own.
+3. Replace my `avatar.jpg` with a picture of yourself (but keep the filename the same). 
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+4. As long as the hugo server on your local machine continues to run, your edits will render in real time. Check out your page!
+
+5. If all looks good, commit your changes, and push to github: 
+```sh
+git add *     # adds all changes that you made to your commit (do just "git add _index.md avatar.jpg" if you edited other files)
+git commit -m "Adding <YourLastName>"
+git push
+```
+There you go! You'll find your new version of the website on github instantly, and www.tarek-ano.us will update shortly thereafter. 
+
+## Troubleshooting
+
+1. Hugo caches the theme and certain intermediate files/modules, which can sometimes cause bugs to persist even after you remove them. Purging the cache will often fix these issues, which is accomplished by running the command: 
+```sh
+hugo mod clean
+```
+
+## Adding a publication
+
+To add a publication, use the `academic` CLI tool to create a new publication folder in the content/publications/ directory with 
+```sh
+academic import --bibtex data/<NewPublication>.bib
+```
+ See https://wowchemy.com/docs/content/publications/ for more information.
