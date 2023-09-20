@@ -35,7 +35,7 @@ cd content/authors
 cp -r anous <YourLastName>
 ```
 
-2. Edit your bio by deleting my info and adding yours (the comments in my bio should be sufficient to clairfy what goes where, but feel free to ask):
+2. Edit your bio by deleting my info and adding yours (the comments in my bio should be sufficient to clarify what goes where, but feel free to ask):
 ```sh
 cd <YourLastName>
 nano _index.md
