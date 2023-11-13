@@ -35,7 +35,7 @@ sections:
       address:  
         street: School of Mathematical Sciences<br> MB-B24<br> Queen Mary University of London<br> Mile End Road
         city: London
-        postcode: 'E3 2JZ'
+        postcode: 'E1 4NS'
         country: United Kingdom
         country_code: UK
       coordinates:
