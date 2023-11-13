@@ -5,19 +5,40 @@ title: Openings
 type: landing
 
 # Your landing page sections - add as many different content blocks as you like
-
 sections:
   - block: markdown
+    id: hero
     content:
-      title: Openings
+      title: |-
+       PhD students 
       subtitle: 
-      text: Nothing to see here, but check back later... 
-            <br><br>We regularly advertise openings for PhD students and postdocs, as well as hosting opportunities for various externally-funded research fellowships, such as the [Royal Society URF](https://royalsociety.org/grants-schemes-awards/grants/university-research/) or the [STFC ERF](https://www.ukri.org/what-we-do/developing-people-and-skills/stfc/fellowships/ernest-rutherford-fellowships/).
+      text: |- 
+          My group has an opening for a PhD student! Together, we will work on toy models of cosmology and de Sitter space. Follow [this link](https://www.findaphd.com/phds/project/de-sitter-matrix-models-and-field-theory/?p164302) for more information and instructions on how to apply.
     design:
-      columns: '1'
-      
-      #css_class: fullscreen
+      columns: '2'
+  - block: markdown
+    id: hero
+    content:
+      title: |-
+       Postdocs
+      subtitle: 
+      text: |- 
+          We also regularly advertise openings for PhD students and postdocs, as well as hosting opportunities for various externally-funded research fellowships, such as the [Royal Society URF](https://royalsociety.org/grants-schemes-awards/grants/university-research/) or the [STFC ERF](https://www.ukri.org/what-we-do/developing-people-and-skills/stfc/fellowships/ernest-rutherford-fellowships/).
+    design:
+      columns: '2'
   
 
 
 ---
+- block: markdown
+    content:
+      title: Openings
+      subtitle: 
+      text: Nothing to see here, but check back later... 
+            
+            <br><br>We also regularly advertise openings for PhD students and postdocs, as well as hosting opportunities for various externally-funded research fellowships, such as the [Royal Society URF](https://royalsociety.org/grants-schemes-awards/grants/university-research/) or the [STFC ERF](https://www.ukri.org/what-we-do/developing-people-and-skills/stfc/fellowships/ernest-rutherford-fellowships/).
+    design:
+      columns: '1'
+      
+      #css_class: fullscreen
+

@@ -24,6 +24,7 @@ interests:
   - Black holes and their interiors
   - Accelerating spacetime
   - Disordered systems
+  - Quantum field theory
   - Holography
 
 education:
