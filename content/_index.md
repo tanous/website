@@ -14,7 +14,7 @@ sections:
       text: |- 
         <br>
 
-        Welcome to Tarek Anous's group webpage, where you can find information about group members, research and teaching activities, and events going on. 
+        Welcome to my group's webpage, where you can find out about [current and past members](/people), research and teaching activities, events, and [openings](/openings). 
         {style="font-size: 1rem;"}
 
   - block: markdown

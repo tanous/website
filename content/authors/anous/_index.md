@@ -10,7 +10,7 @@ last_name: Anous
 superuser: true
 
 # Role/position
-role: Lecturer (Assistant Professor)
+role: Lecturer (Assistant Professor) | UKRI Future Leaders Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -84,5 +84,5 @@ highlight_name: false
 user_groups:
   - Researchers 
 ---
-
-I'm an Egyptian/American theoretical physicist. I spent my childhood in Houston Texas, and my teenage years in Cairo. I was drawn to research in string theory and holography, and after academic stints in Ithaca, Boston, Leuven, Boston (again), Vancouver, and Amsterdam, I've landed at the School of Mathematical Sciences at Queen Mary University of London. 
+I’m an Egyptian/American scientist. I spent my childhood in Houston, Texas, USA, and my teenage years in Cairo, Egypt. After completing my undergraduate degree in Applied and Engineering Physics at Cornell University, I briefly worked as a cold-atom experimental physicist. But ultimately, I couldn’t shake my desire to learn about gravity---which led me to do a PhD in string theory under Frederik Denef at Harvard. After my PhD, I spent nine years as a postdoc, first at the MIT, then at UBC, and finally, as the Delta-ITP fellow at the University of Amsterdam. I’m currently a member of the [Geometry, Analysis and Gravitation Center](https://www.qmul.ac.uk/maths/research/geometry-and-analysis-group/) of the School of Mathematical Sciences at Queen Mary University of London and a[UKRI Future Leaders Fellow](https://www.ukri.org/news/75-new-future-leaders-fellows-and-upcoming-rounds-announced/).
+ 
