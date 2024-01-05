@@ -1,7 +1,7 @@
 ---
-title: holoUK 1
+title: holoUK II
 
-event: holoUK 1
+event: holoUK II
 event_url: https://sites.google.com/view/holouk
 
 location: The Royal Institution (London Institute for Mathematical Sciences)
@@ -12,18 +12,18 @@ address:
   postcode: 'W1S 4BS'
   country: United Kingdom
 
-summary: The first holoUK, supported thanks to a contribution from FPUK and organized in collaboration with Damian Galante, Felix Haehl, and Mark Mezei.
+summary: The second edition of holoUK, supported thanks to a contribution from FPUK and organized in collaboration with Damian Galante, Felix Haehl, and Mark Mezei.
 
-abstract: 'Speakers: Kuo-Wei Huang (U. of Southampton) and Michal Heller (Ghent University)'
+abstract: 'Speakers: Gabriel Wong (University of Oxford) and Matthew Dodelson (CERN)'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-09-27T13:00:00Z'
-date_end: '2023-09-27T18:00:00Z'
+date: '2024-02-26T13:00:00Z'
+date_end: '2024-02-26T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-08-14T00:00:00Z'
+publishDate: '2024-01-05T00:00:00Z'
 
 authors: []
 tags: []
@@ -55,4 +55,4 @@ slides:
 projects:
 ---
 
-Please follow [THIS LINK](https://docs.google.com/forms/d/e/1FAIpQLSdvtalg2i0UXiU7w4-eYJKvDNe9g1Nx00v_d-XloG1gNF5wgQ/viewform) to register by 30 August 2023 and await confirmation before making any travel arrangements (space at the venue is limited).
+Please follow [THIS LINK](https://forms.gle/qzvDBJcmQ4ue2hWbA) to register by January 31 2024 and await confirmation before making any travel arrangements (space at the venue is limited).
