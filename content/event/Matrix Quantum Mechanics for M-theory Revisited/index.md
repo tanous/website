@@ -7,7 +7,7 @@ event_url: https://indico.cern.ch/event/1311127/
 location: CERN
 address:
   street: 24/3-006 - TH Conference Room Espl. des Particules 1 
-  city:  Meyran
+  city:  Meyrin
   region: Geneva
   postcode: '1211'
   country: Switzerland
@@ -20,9 +20,15 @@ summary: |-
   3. Improving our understanding of these models at finite temperature and identifying promising directions for application to the physics of black holes.
 
 abstract: |- 
+  The theme of this 1-week workshop is on the BFSS and BMN matrix models, DLCQ in string theory and M-theory, and new approaches to study matrix quantum mechanics, such as the quantum mechanics bootstrap. The goal of the workshop includes but is not limited to:
+
+  1. Revisiting the matrix quantum mechanics for M-theory from modern viewpoints (AdS/CFT and flat-space holography).
+  2. Applying and developing new techniques to study matrix quantum mechanics (bootstrap, Monte Carlo etc).
+  3. Improving our understanding of these models at finite temperature and identifying promising directions for application to the physics of black holes.
+
   Speakers include:
-    - Joao Penedones&nbsp;
-    - Sean Hartnoll&nbsp;
+    - Joao Penedones
+    - Sean Hartnoll
     - David Berenstein
     - Masanori Hanada
     - Dionysios Anninos
