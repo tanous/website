@@ -1,7 +1,7 @@
 ---
 title: The discreet charm of the discrete series in dS$_2$
 date: '2023-12-01'
-draft: true
+draft: false
 publishDate: '2024-01-05T10:34:24.389947Z'
 authors:
 - Dionysios Anninos
