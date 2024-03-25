@@ -6,27 +6,28 @@ type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
-  - block: markdown
-    id: hero
-    content:
-      title: |-
-       PhD students 
-      subtitle: 
-      text: |-
-        I'm looking for a PhD student! Together, we will work on toy models of cosmology and de Sitter space. Follow [this link](https://www.findaphd.com/phds/project/de-sitter-matrix-models-and-field-theory/?p164302) for more information and instructions on how to apply.
-    design:
-      columns: '2'
+  #- block: markdown
+   # id: hero
+    #content:
+      #title: |-
+      # PhD students 
+      #subtitle: 
+      #text: |-
+      #  I'm looking for a PhD student! Together, we will work on toy models of cosmology and de Sitter space. Follow [this link](https://www.findaphd.com/phds/project/de-sitter-matrix-models-and-field-theory/?p164302) for more information and instructions on how to apply.
+    #design:
+     # columns: '2'
   - block: markdown
     id: hero
     content:
       title: |-
        Postdocs
       subtitle: 
+       #We have three openings for postdocs! For full consideration, applications must be submitted *both* on [AJO](https://academicjobsonline.org/ajo/jobs/26854) and on QMUL's [jobs website](https://www.qmul.ac.uk/jobs/vacancies/items/9249.html) (See [here](https://inspirehep.net/jobs/2736192) for more information). Deadline is *January 17th, 2024*.
       text: |-
-        We have three openings for postdocs! For full consideration, applications must be submitted *both* on [AJO](https://academicjobsonline.org/ajo/jobs/26854) and on QMUL's [jobs website](https://www.qmul.ac.uk/jobs/vacancies/items/9249.html) (See [here](https://inspirehep.net/jobs/2736192) for more information). Deadline is *January 17th, 2024*. 
+       
 
 
-        We are also always open to host various externally-funded research fellowships, such as: 
+        We are  always open to host various externally-funded research fellowships, such as: 
         - The [Royal Society URF](https://royalsociety.org/grants-schemes-awards/grants/university-research/) (long-term, 8 years)
         - The [Royal Society NIF](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) (for non-UK applicants, 3 years)
         - The [Royal Society Dorothy Hodgkin fellowship](https://royalsociety.org/grants-schemes-awards/grants/dorothy-hodgkin-fellowship/) (for people with special caring responsibilities, 8 years)
@@ -34,6 +35,7 @@ sections:
         - The [STFC ERF](https://www.ukri.org/what-we-do/developing-people-and-skills/stfc/fellowships/ernest-rutherford-fellowships/) (5 years)
         - The [Stephen Hawking Fellowship](https://www.ukri.org/opportunity/stephen-hawking-postdoctoral-fellowship/) (3 years)
         - The [EPSRC postdoctoral fellowship](https://www.ukri.org/opportunity/epsrc-post-doctoral-fellowships-dec-2023-responsive-mode/) (3 years)
+        - The [Marie Skłodowska-Curie postdoctoral fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships) (for non-UK applicants, 2 years)
     design:
       columns: '2'
   

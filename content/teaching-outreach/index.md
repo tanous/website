@@ -35,6 +35,8 @@ sections:
        
       subtitle: 
       text: |- 
+          [MTH5113: Introduction to differential geometry, Semester B 2024](https://qmplus.qmul.ac.uk/course/view.php?id=23673) <br> Despite the name, not much differential geometry happens here. Rather, this is a vector calculus course. For actual differential geometry, you should take MTH6132: Relativity
+
           Interesting saddles in [0](/uploads/interesting_Saddles_Lecture1.pdf "0"), [1](/uploads/interesting_Saddles_Lecture2.pdf "1") and [2](/uploads/interesting_Saddles_Lecture3.pdf "2") dimensions
           <br>(Click number for notes)
           <br> _Amsterdam PhD student seminar series_, 2020
