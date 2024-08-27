@@ -1,7 +1,7 @@
 ---
 title: 'De Sitter at all loops: the story of the Schwinger model'
 date: '2024-01-01'
-draft: true
+draft: false
 publishDate: '2024-08-27T17:10:32.930110Z'
 authors:
 - Dionysios Anninos
