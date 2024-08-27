@@ -10,7 +10,7 @@ last_name: Anous
 superuser: true
 
 # Role/position
-role: Lecturer (Assistant Professor) | UKRI Future Leaders Fellow
+role: Senior Lecturer (Associate Professor) | UKRI Future Leaders Fellow
 
 # Organizations/Affiliations
 organizations:
