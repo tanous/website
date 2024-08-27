@@ -66,6 +66,6 @@ To add a publication, use the `academic` CLI tool to create a new publication fo
 ```sh
 academic import --bibtex data/<NewPublication>.bib
 ```
-Don't forget to change the `draft` line item from `true` to `false`
+Don't forget to change the `draft` line item from `true` to `false` so that the new publication appears on the live website. 
 
  See https://wowchemy.com/docs/content/publications/ for more information.
