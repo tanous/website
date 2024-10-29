@@ -7,7 +7,7 @@ type: landing
 # Your landing page sections - add as many different content blocks as you like
 sections:
   #- block: markdown
-   # id: hero
+    #id: hero
     #content:
       #title: |-
       # PhD students 
@@ -21,12 +21,20 @@ sections:
     content:
       title: |-
        Postdocs
-      subtitle: 
-       #We have three openings for postdocs! For full consideration, applications must be submitted *both* on [AJO](https://academicjobsonline.org/ajo/jobs/26854) and on QMUL's [jobs website](https://www.qmul.ac.uk/jobs/vacancies/items/9249.html) (See [here](https://inspirehep.net/jobs/2736192) for more information). Deadline is *January 17th, 2024*.
+      text: |-
+       Our group has three postdoc openings! For full consideration, please submit applications on *both* [AJO](https://academicjobsonline.org/ajo/jobs/28892) and on QMUL's [jobs website](https://qmul-jobs.tal.net/vx/mobile-0/appcentre-ext/brand-4/candidate/so/pm/1/pl/3/opp/4133-Postdoctoral-Research-Assistant-x-3/en-GB). Deadline is ***November 27th, 2024***.
+    design:
+      columns: '2'
+
+  - block: markdown
+    id: hero
+    content:
+      title: |-
+       Fellowships
+      #subtitle: 
+       
       text: |-
        
-
-
         We are  always open to host various externally-funded research fellowships, such as: 
         - The [Royal Society URF](https://royalsociety.org/grants-schemes-awards/grants/university-research/) (long-term, 8 years)
         - The [Royal Society NIF](https://royalsociety.org/grants-schemes-awards/grants/newton-international/) (for non-UK applicants, 3 years)
