@@ -6,16 +6,16 @@ type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
-  #- block: markdown
-    #id: hero
-    #content:
-      #title: |-
-      # PhD students 
-      #subtitle: 
-      #text: |-
-      #  I'm looking for a PhD student! Together, we will work on toy models of cosmology and de Sitter space. Follow [this link](https://www.findaphd.com/phds/project/de-sitter-matrix-models-and-field-theory/?p164302) for more information and instructions on how to apply.
-    #design:
-     # columns: '2'
+  - block: markdown
+    id: hero
+    content:
+      title: |-
+       PhD students 
+      subtitle: 
+      text: |-
+        I'm looking for a PhD student! Together, we will work on toy models of cosmology and de Sitter space. Follow [this link](https://www.findaphd.com/phds/project/de-sitter-matrix-models-and-field-theory/?p177793) for more information and instructions on how to apply.
+    design:
+      columns: '2'
   - block: markdown
     id: hero
     content:
