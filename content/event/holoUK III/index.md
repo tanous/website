@@ -12,7 +12,7 @@ address:
   postcode: 'OX1 3PN'
   country: United Kingdom
 
-summary: The third edition of holoUK, supported thanks to contributions from Wadham College and FPUk; organized in collaboration with Damian Galante, Felix Haehl, and Mark Mezei.
+summary: The third edition of holoUK, supported thanks to contributions from Wadham College and FPUK; organized in collaboration with Damian Galante, Felix Haehl, and Mark Mezei.
 
 abstract: |-
    Invited Speakers: 
