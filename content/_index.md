@@ -30,13 +30,15 @@ sections:
 
        My research aims to understand how spacetime horizon physics is encoded using such dualities, and explore models that incorporate the expansion of spacetime. Some approaches that I have taken in the past include: 
 
-       - Low-dimensional models of classical and quantum gravity, and their holographic duals
-          - For example: thermalization as a dual of gravitational [black hole collapse](/publication/anous-2016-kss)
-       - Supersymmetric matrix quantum mechanics as a [toy model](/publication/anous-2019-rqb) for [string theoretic black holes](/publication/anous-2017-mwr)
-       - Disordered systems as a model of [cold](/publication/anous-2021-eqj), [fragmented black holes](/publication/anninos-2016-szt)
-       - Quantum field theory on a rigid de Sitter background, including
-          - The constraints imposed by [symmetries](/publication/anninos-2023-lin) and [unitarity](/publication/anous-2020-nxu)
-          - The cosmological wavefunction and how it controls the [infrared of loop integrals](/publication/anninos-2014-lwa)
+       - Quantum field theory *on a rigid de Sitter background*, e.g.:
+          - Finding [exactly solvable models](/publication/anninos-2024-fty/)
+          - Studying the constraints imposed by [symmetries](/publication/anninos-2023-lin) and [unitarity](/publication/anous-2020-nxu)
+          - Analyzing the cosmological wavefunction and how it controls the [infrared of loop integrals](/publication/anninos-2014-lwa)
+       - Low-dimensional models of classical and quantum gravity, and their holographic duals, e.g.: 
+          - Following the process of thermalization after a global quench and demonstrating it as a [dual process to gravitational black hole collapse](/publication/anous-2016-kss)
+       - Proposing supersymmetric matrix quantum mechanical systems as [toy models](/publication/anous-2019-rqb) for [string theoretic black holes](/publication/anous-2017-mwr)
+       - Suggesting disordered systems as a model of [cold](/publication/anous-2021-eqj) or [fragmented black holes](/publication/anninos-2016-szt)
+       
 
 
 
