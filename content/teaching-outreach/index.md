@@ -35,7 +35,7 @@ sections:
        
       subtitle: 
       text: |- 
-          <span style="color:#1C4E9D">Differential geometry in gauge theory and gravity, Semester A 2024/2025</span>
+          <span style="color:#1C4E9D">SPA7027U/P: Differential geometry in gauge theory and gravity, Semester A 2024/2025</span>
            <br> This course is part of the physics department's MSci/Euro master's program. The course covers differential forms/exterior algebras, manifolds, fiber bundles, gauge theory, Elie Cartan's formulation of general relativity, and ends with a discussion of the bundle structure of monopoles and instantons. 
 
           <span style="color:#1C4E9D">MTH5113: Introduction to differential geometry, Semester B 2023/2024</span>
