@@ -35,10 +35,10 @@ sections:
        
       subtitle: 
       text: |- 
-          <span style="color:#1C4E9D">Differential geometry in gauge theory and gravity, Semester A 2025</span>
+          <span style="color:#1C4E9D">Differential geometry in gauge theory and gravity, Semester A 2024/2025</span>
            <br> This course is part of the physics department's MSci/Euro master's program. The course covers differential forms/exterior algebras, manifolds, fiber bundles, gauge theory, Elie Cartan's formulation of general relativity, and ends with a discussion of the bundle structure of monopoles and instantons. 
 
-          <span style="color:#1C4E9D">MTH5113: Introduction to differential geometry, Semester B 2024</span>
+          <span style="color:#1C4E9D">MTH5113: Introduction to differential geometry, Semester B 2023/2024</span>
            <br> Despite the name, not much differential geometry happens here. Rather, this is a vector calculus course. For actual differential geometry, you should take MTH6132: Relativity
 
           Interesting saddles in [0](/uploads/interesting_Saddles_Lecture1.pdf "0"), [1](/uploads/interesting_Saddles_Lecture2.pdf "1") and [2](/uploads/interesting_Saddles_Lecture3.pdf "2") dimensions
