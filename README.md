@@ -59,6 +59,7 @@ There you go! You'll find your new version of the website on github instantly, a
 ```sh
 hugo mod clean
 ```
+If, for whatever reason, that does not fix things note that I wrote the page with Hugo [v0.116.1 extended](https://github.com/gohugoio/hugo/releases/tag/v0.116.1). You can install older versions of Hugo e.g. by following the instructions listed in [this tutorial](https://www.gigigatgat.ca/en/posts/install-specific-hugo-version/)
 
 ## Adding a publication
 
