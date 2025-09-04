@@ -3,8 +3,8 @@
 title: Alan Rios Fukelman
 
 # Full Name (for SEO)
-first_name: alan
-last_name: rios fukelman
+first_name: Alan
+last_name: Rios Fukelman
 
 # Is this the primary user of the site?
 superuser: false
