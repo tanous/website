@@ -38,9 +38,6 @@ sections:
           - Following the process of thermalization after a global quench and demonstrating it as a [dual process to gravitational black hole collapse](/publication/anous-2016-kss)
        - Proposing supersymmetric matrix quantum mechanical systems as [toy models](/publication/anous-2019-rqb) for [string theoretic black holes](/publication/anous-2017-mwr)
        - Suggesting disordered systems as a model of [cold](/publication/anous-2021-eqj) or [fragmented black holes](/publication/anninos-2016-szt)
-       
-
-
 
   - block: people
     content:
@@ -57,7 +54,8 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-  
+
+
   - block: contact
     content:
       title: <span style="color:#1C4E9D">Office Address</span>

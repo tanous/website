@@ -28,7 +28,19 @@ sections:
         padding: ['140px', '0', '140px', '0']
       #css_class: fullscreen
   - block: markdown
-    id: sailing
+    id: outofequilibrium
+    content:
+      title: |- 
+        <span style="font-size:1.5rem; color:#1C4E9D">
+        Statistical systems out of equilibrium <br>(5-part lecture series)</span> 
+      subtitle: |- 
+        <span style="font-size: 0.9rem;"> VI Siembra-HoLAGrav Young Frontiers Meeting at ICTP-SAIFR <br>
+          June 30 - July 11, 2025</span>
+      text: "{{< youtube id=9eXeRp8W3Yg loading=lazy >}}" 
+    design:
+      columns: '2'       
+  - block: markdown
+    id: infoparadox
     content:
       title: |- 
         <span style="font-size:1.5rem; color:#1C4E9D">

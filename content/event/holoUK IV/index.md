@@ -1,38 +1,37 @@
 ---
-title: holoUK III
+title: holoUK IV
 
-event: holoUK III
-event_url: https://sites.google.com/view/holouk/home/holouk-3
+event: holoUK IV
+event_url: https://sites.google.com/view/holouk/home/holouk-4
 
-location: University of Oxford, Wadham College, Okinaga Room
+location: School of Mathematical Sciences University of Bristol
 address:
-  street: Parks Rd 
-  city:  Oxford
+  street: Woodland Rd  
+  city:  Bristol
   region: 
-  postcode: 'OX1 3PN'
+  postcode: 'BS8 1UG'
   country: United Kingdom
 
-summary: The third edition of holoUK, supported thanks to contributions from Wadham College and FPUK; organized in collaboration with Damian Galante, Felix Haehl, and Mark Mezei.
+summary: The fourth edition of holoUK, supported thanks to contributions from the FPUK and the UKRI via the UK Government's Horizon Europe Guarantee Scheme, EP/Y00468/X/1.; organized in collaboration with Mike Blake, Damian Galante, Felix Haehl, and Mark Mezei.
 
 abstract: |-
    Invited Speakers: 
-    - Vijay Balasubramanian (UPenn & Oxford)
-    - Jan de Boer (University of Amsterdam)
-    - Marine De Clerck (University of Cambridge)
-    - Victor Godet (LPTHE Paris)
-    - Victor Gorbenko (EPFL)
-    - Diksha Jain (University of Cambridge)
-    - Ioanna Kourkoulou (University of Cambridge)
+    - Amos Chan (U. of Warwick)
+    - Thomas Colas (U. of Cambridge)
+    - Sašo Grozdanov (U. of Edinburgh and U. of Ljubljana)
+    - Maria Knysh (Vrije Universiteit Brussel)
+    - Adrián Sanchez-Garrido (U. of Southampton)
+    - Edgar Shaghoulian (UC Santa Cruz)
             
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-03-27T13:00:00Z'
-date_end: '2025-03-28T18:00:00Z'
+date: '2025-09-08T10:00:00Z'
+date_end: '2025-09-09T14:15:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-03-03T00:00:00Z'
+publishDate: '2025-09-03T00:00:00Z'
 
 authors: []
 tags: []
