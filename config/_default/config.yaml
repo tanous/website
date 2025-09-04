@@ -36,7 +36,6 @@ enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
-disablePathToLower: true
 permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
