@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Johnny Brendan Gleeson
+title: Johnny Gleeson
 
 # Full Name (for SEO)
 first_name: Johnny
