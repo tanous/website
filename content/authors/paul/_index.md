@@ -10,7 +10,7 @@ last_name: Paul
 superuser: false
 
 # Role/position
-role: Postdoc
+role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
