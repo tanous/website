@@ -43,7 +43,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:tanous@qmul.ac.uk'
+    link: 'mailto:t.anous@qmul.ac.uk'
   - icon: inspire
     icon_pack: ai
     link: https://inspirehep.net/authors/1118656?ui-citation-summary=true
