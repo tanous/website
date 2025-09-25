@@ -32,7 +32,10 @@ sections:
     content:
       title: |- 
         <span style="font-size:1.5rem; color:#1C4E9D">
-        Statistical systems out of equilibrium <br>(5-part lecture series)</span> 
+        Statistical systems out of equilibrium 
+
+        <span style="font-size:1.5rem; color:#1C4E9D">([5-part lecture series](https://www.youtube.com/watch?v=9eXeRp8W3Yg&list=PLfLfCr0kiVt85ZQXemiaONaO-_SYB6k2I))</span>
+        
       subtitle: |- 
         <span style="font-size: 0.9rem;"> VI Siembra-HoLAGrav Young Frontiers Meeting at ICTP-SAIFR <br>
           June 30 - July 11, 2025</span>
